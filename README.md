@@ -3,7 +3,7 @@
 ## Environment Setup
 
 ```bash
-python -m venv venv
+python3 -m venv venv
 
 source venv/bin/activate # or venv/Scripts/activate on windows
 
